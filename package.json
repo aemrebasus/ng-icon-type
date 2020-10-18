@@ -1,6 +1,6 @@
 {
   "name": "ng-icon-type",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The type of icons in the Angular Material that supports autocompletion.",
   "main": "index.ts",
   "scripts": {
