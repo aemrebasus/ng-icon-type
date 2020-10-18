@@ -1,0 +1,19 @@
+{
+  "name": "ng-icon-type",
+  "version": "1.0.0",
+  "description": "The type of icons in the Angular Material that supports autocompletion.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aemrebasus/ng-icon-type.git"
+  },
+  "author": "Ahmet Emrebas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aemrebasus/ng-icon-type/issues"
+  },
+  "homepage": "https://github.com/aemrebasus/ng-icon-type#readme"
+}
